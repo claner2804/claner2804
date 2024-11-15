@@ -10,9 +10,9 @@ A Little About Me
 
 🛠️ I also work at Translogica GmbH, where I primarily use C# in software development and customer support.
 
-🏃‍♀️ I'm training to run my first 26 km by April 2025.
+🏃‍♀️ I'm training to run my first 26 km by April 2025 for my 26th Birthday.
 
-🔧 I'm currently interested in learning about system design, building efficient and scalable software, and gaining skills in operating systems and database management.
+🔧 I'm currently interested in learning about system design, building efficient and scalable software, and gaining skills database management.
 
 Let's Connect!
 
